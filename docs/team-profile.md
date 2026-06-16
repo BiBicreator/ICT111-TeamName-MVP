@@ -1,6 +1,7 @@
 # Team Profile
 
-## Team Name - RSUROOKIE
+## Team Name 
+RSUROOKIE
 
 ## Team Members and Roles
 
