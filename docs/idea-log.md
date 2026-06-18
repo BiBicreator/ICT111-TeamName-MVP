@@ -49,7 +49,7 @@ Student Roommate Matching & Housing Platform that combines room listings with a 
 HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Google Maps API, Firebase Chat API (optional).
 
 ### Why This is Suitable
-The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
+
 
 ## Idea 3: Student Second-Hand Marketplace Platform
 ### Problem Area
@@ -68,4 +68,3 @@ Student Second-Hand Marketplace Platform designed exclusively for verified stude
 HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Cloudinary/Image Upload API, Firebase Chat API (optional).
 
 ### Why This is Suitable
-The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
