@@ -31,10 +31,12 @@ The project solves a real problem experienced by students and can be developed a
 ## Idea 1: RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition)
 
 ### Problem Area
-
+Difficulty identifying campus buildings and finding service information
 
 ### Target Users
-New students,international students,visitors
+- New students
+- international students 
+- visitors
 
 ### Current Alternative
 Students usually ask university staff, senior students, or search through university websites and social media pages to find information.
