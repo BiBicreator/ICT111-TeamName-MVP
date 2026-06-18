@@ -35,9 +35,12 @@ Students, especially freshmen, international students, and campus visitors, ofte
 
 ## Initial IT Venture Direction
 
-RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition) is an intelligent information system designed to help students easily access campus service information. By uploading an image of any RSU campus building, students receive instant details about that building's available services, facilities, student clubs, famous spots, opening hours, and operational rules.
+The team is interested in developing a technology solution that improves student life and campus experiences. We are exploring opportunities related to campus navigation, student services, accommodation, and student-to-student interactions. Potential solutions may include AI-assisted systems, web applications, and digital platforms that help students access information more efficiently and solve everyday campus challenges.
 
-The system combines image recognition technology with a chatbot interface to provide fast and accurate campus information through a web or mobile platform.
+## Selected IT Venture Direction
+
+Our team selected **RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition)** as the semester project. The system aims to help students identify campus buildings and instantly access information about facilities, services, student clubs, operating hours, and campus regulations through image recognition and chatbot technology.
+
 
 ## Technology Possibility
 
@@ -62,12 +65,14 @@ The system combines image recognition technology with a chatbot interface to pro
 
 | Week | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
+| Lab 1 | Repository setup and idea generation | Repository, team profile, README, initial idea log, weekly logbook | Completed |
+| Lab 2 | Opportunity scanning and project selection | Opportunity scan, NUF scoring, selected opportunity document | Completed |
+
 
 ## Current Status
 
-The team has successfully created the GitHub repository and established the required folder structure. Team roles and responsibilities have been assigned, and the initial project documentation has been completed. After brainstorming multiple ideas, the team selected RSU Campus Buddy as the preferred project direction. The README, idea log, and weekly venture logbook have been prepared and uploaded to the repository.
+During Lab 02, the team conducted opportunity scanning and evaluated three potential IT venture ideas using the NUF (New, Useful, Feasible) framework. After comparing the ideas, RSU Campus Buddy achieved the highest score and was selected as the final project direction. The team has completed the opportunity analysis, NUF scoring, project selection documentation, and repository updates.
 
 ## Next Step
 
-In Lab 2, the team will conduct opportunity scanning and collect feedback from students regarding campus navigation and information accessibility. The team will identify key user problems, validate the project concept, and define the core features of the Minimum Viable Product (MVP).
+In Lab 03, the team will conduct customer problem discovery by interviewing and surveying RSU students, especially freshmen and international students. The team will gather evidence about campus navigation challenges, validate the identified problem, and determine the most important features to include in the MVP.
