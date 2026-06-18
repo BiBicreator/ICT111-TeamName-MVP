@@ -28,13 +28,16 @@ An AI-powered campus chatbot that allows users to upload a photo of a campus bui
 ### Why This is Suitable
 The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
 
-## Idea 1: Student Roommate Matching & Housing Platform
+## Idea 2: Student Roommate Matching & Housing Platform
 
 ### Problem Area
 Students searching for accommodation near campus face challenges in finding roommates who are compatible in terms of budget, lifestyle, study habits, cleanliness, sleep schedules, and personal preferences. Existing platforms focus mainly on room listings and provide limited support for evaluating roommate compatibility, often resulting in conflicts, dissatisfaction, and frequent relocation
 
 ### Target Users
-
+University and college students,
+international students,
+exchange students, 
+freshmen seeking shared accommodation.
 
 ### Current Alternative
 
