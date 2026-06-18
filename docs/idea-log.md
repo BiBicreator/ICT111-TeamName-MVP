@@ -34,11 +34,7 @@ The project solves a real problem experienced by students and can be developed a
 Students, especially freshmen, international students, and campus visitors, often struggle to identify campus buildings and find information about services, facilities, student clubs, operating hours, and university regulations.
 
 ### Target Users
-- New students
-- Current RSU students
-- International students
-- Campus visitors
-- University staff
+New students,international students,visitors
 
 ### Current Alternative
 Students usually ask university staff, senior students, or search through university websites and social media pages to find information.
