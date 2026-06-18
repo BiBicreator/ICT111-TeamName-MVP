@@ -3,7 +3,7 @@
 ## Idea 1: RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition)
 
 ### Problem Area
-Students, especially freshmen, international students, and campus visitors, often struggle to identify campus buildings and find information about services, facilities, student clubs, operating hours, and university regulations.
+Difficulty identifying campus buildings and finding service information
 
 ### Target Users
 - New students
