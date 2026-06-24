@@ -97,7 +97,7 @@ The team decided to focus the MVP on the most important user needs, including bu
 - Customer questions file: `docs/customer-questions.md`
 - Raw responses file: `data/raw-responses.xlsx`
 - Assumption-evidence table: `docs/assumption-evidence-table.md`
-- Commit link: `https://github.com/BiBicreator/ICT111-RSUROOKIE-MVP/commit/xxxxxxxx`
+- Commit link: `https://github.com/BiBicreator/ICT111-RSUROOKIE-MVP/commit/7ea3d0c2ea1422ac5fe85a4b3ab660f79e8830b6`
 
 ### Plan for Lab 04
 The team will define the customer segments and create user personas based on the collected evidence. We will then develop user stories and identify the core features that should be included in the MVP design and prototype.
